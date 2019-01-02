@@ -23,3 +23,4 @@ class Student
   end
 end
 
+#This is a class method that drops the students table. Once again, create a variable `sql`, and set it equal to the SQL statement that drops the students table. Execute that #statement against the database using `DB[:conn].execute(sql)`. 
