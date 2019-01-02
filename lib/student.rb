@@ -5,7 +5,9 @@ class Student
   
   @@all = []
   
-  
+  def initialize
+    
+  end
 end
 
 
